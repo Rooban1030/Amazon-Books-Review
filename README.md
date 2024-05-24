@@ -4,9 +4,12 @@ Data Engineering Project
 Datasets : https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews?select=books_data.csv
 
 • Created ETL pipelines using Azure Data Factory.
+
 • Ingested Raw data from various data sources like On-premise PostgreSQL Databases, GitHub,
 Streaming sources and files and stored it in Azure Storage account.
+
 • Processed data using Azure Databricks and transformed the data using Medallion Architecture.
+
 • Analyzed the data using Azure Synapse Analytics and created interactive dashboards using
 Power BI.
 
