@@ -11,9 +11,9 @@ I led a data engineering initiative harnessing Azure services to streamline data
 
 🔍 Analysis & Visualization: Utilized Azure Synapse Analytics for in-depth analysis, creating dynamic Power BI dashboards for actionable insights.
 
-Impact: Enhanced decision-making and operational efficiency, empowering stakeholders with timely, data-driven insights.
+💡Impact: Enhanced decision-making and operational efficiency, empowering stakeholders with timely, data-driven insights.
 
-Future: Excited to continue leveraging Azure to drive transformative data projects.
+🌞Future: Excited to continue leveraging Azure to drive transformative data projects.
 
   **Tables**
   
