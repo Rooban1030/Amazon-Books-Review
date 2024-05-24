@@ -3,15 +3,17 @@ Data Engineering Project
 
 Datasets : https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews?select=books_data.csv
 
-• Created ETL pipelines using Azure Data Factory.
+I led a data engineering initiative harnessing Azure services to streamline data processing and drive actionable insights:
 
-• Ingested Raw data from various data sources like On-premise PostgreSQL Databases, GitHub,
-Streaming sources and files and stored it in Azure Storage account.
+🔧 ETL Pipeline: Developed end-to-end pipelines with Azure Data Factory, ingesting diverse data from PostgreSQL, GitHub, and more into Azure Storage.
 
-• Processed data using Azure Databricks and transformed the data using Medallion Architecture.
+🔄 Data Transformation: Leveraged Azure Databricks and Medallion Architecture for efficient data processing and transformation.
 
-• Analyzed the data using Azure Synapse Analytics and created interactive dashboards using
-Power BI.
+🔍 Analysis & Visualization: Utilized Azure Synapse Analytics for in-depth analysis, creating dynamic Power BI dashboards for actionable insights.
+
+Impact: Enhanced decision-making and operational efficiency, empowering stakeholders with timely, data-driven insights.
+
+Future: Excited to continue leveraging Azure to drive transformative data projects.
 
   **Tables**
   
